@@ -1,0 +1,17 @@
+C:\Users\User\Documents\Incorporacion Syspotec\SistemaTickets\Infraestructure\bin\Debug\net6.0\Infraestructure.deps.json
+C:\Users\User\Documents\Incorporacion Syspotec\SistemaTickets\Infraestructure\bin\Debug\net6.0\Infraestructure.runtimeconfig.json
+C:\Users\User\Documents\Incorporacion Syspotec\SistemaTickets\Infraestructure\bin\Debug\net6.0\Infraestructure.dll
+C:\Users\User\Documents\Incorporacion Syspotec\SistemaTickets\Infraestructure\bin\Debug\net6.0\Infraestructure.pdb
+C:\Users\User\Documents\Incorporacion Syspotec\SistemaTickets\Infraestructure\bin\Debug\net6.0\Core.dll
+C:\Users\User\Documents\Incorporacion Syspotec\SistemaTickets\Infraestructure\bin\Debug\net6.0\Core.pdb
+C:\Users\User\Documents\Incorporacion Syspotec\SistemaTickets\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Incorporacion Syspotec\SistemaTickets\Infraestructure\obj\Debug\net6.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Incorporacion Syspotec\SistemaTickets\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Incorporacion Syspotec\SistemaTickets\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfo.cs
+C:\Users\User\Documents\Incorporacion Syspotec\SistemaTickets\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Incorporacion Syspotec\SistemaTickets\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CopyComplete
+C:\Users\User\Documents\Incorporacion Syspotec\SistemaTickets\Infraestructure\obj\Debug\net6.0\Infraestructure.dll
+C:\Users\User\Documents\Incorporacion Syspotec\SistemaTickets\Infraestructure\obj\Debug\net6.0\refint\Infraestructure.dll
+C:\Users\User\Documents\Incorporacion Syspotec\SistemaTickets\Infraestructure\obj\Debug\net6.0\Infraestructure.pdb
+C:\Users\User\Documents\Incorporacion Syspotec\SistemaTickets\Infraestructure\obj\Debug\net6.0\Infraestructure.genruntimeconfig.cache
+C:\Users\User\Documents\Incorporacion Syspotec\SistemaTickets\Infraestructure\obj\Debug\net6.0\ref\Infraestructure.dll
